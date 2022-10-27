@@ -1,0 +1,23 @@
+{
+    "/js/backend/app.js": "/js/backend/app.js",
+    "/js/frontend/app.js": "/js/frontend/app.js",
+    "/js/backend/category.js": "/js/backend/category.js",
+    "/js/backend/productdetails.js": "/js/backend/productdetails.js",
+    "/js/backend/about.js": "/js/backend/about.js",
+    "/js/backend/contact.js": "/js/backend/contact.js",
+    "/js/backend/faq.js": "/js/backend/faq.js",
+    "/js/backend/shop.js": "/js/backend/shop.js",
+    "/js/backend/checkout.js": "/js/backend/checkout.js",
+    "/js/backend/cart.js": "/js/backend/cart.js",
+    "/js/backend/dashboard.js": "/js/backend/dashboard.js",
+    "/js/backend/register.js": "/js/backend/register.js",
+    "/js/backend/login.js": "/js/backend/login.js",
+    "/js/backend/wishlist.js": "/js/backend/wishlist.js",
+    "/js/backend/compare.js": "/js/backend/compare.js",
+    "/js/backend/profile.js": "/js/backend/profile.js",
+    "/js/backend/others.js": "/js/backend/others.js",
+    "/js/backend/ordersuccess.js": "/js/backend/ordersuccess.js",
+    "/js/backend/blogdetails.js": "/js/backend/blogdetails.js",
+    "/js/backend/ordertrack.js": "/js/backend/ordertrack.js",
+    "/css/frontend/app.css": "/css/frontend/app.css"
+}
